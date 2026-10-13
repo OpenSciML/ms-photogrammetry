@@ -25,14 +25,9 @@ build/
 
 # Large UAV raw imagery & binary raster/point-cloud outputs
 data/
+output/
 *.tif
 *.tiff
 *.las
 *.laz
 *.ply
-
-# Keep lightweight documentation previews & reports in output/ if desired
-output/*.tif
-output/*.las
-output/*.ply
-output/*.log

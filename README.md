@@ -16,11 +16,11 @@ An end-to-end photogrammetric, radiometric, orthorectification, and 3D point clo
 
 | True-Color RGB Orthomosaic (`1.5 cm/px`) | Color-Infrared (CIR: NIR / Red / Green) |
 | :---: | :---: |
-| ![RGB Orthomosaic](output/orthomosaic_rgb_preview.png) | ![CIR Orthomosaic](output/orthomosaic_cir_false_color.png) |
-| **NDVI Vegetation Index Map** | **Calibrated LWIR Thermal Canopy Map (°C)** |
-| ![NDVI Map](output/orthomosaic_ndvi_map.png) | ![LWIR Thermal Map](output/orthomosaic_lwir_thermal.png) |
-| **DEM-Normalized 3D Point Cloud (`735,614 pts`)** | **Turfgrass Canopy Height Model (`CHM = DSM - DTM`)** |
-| ![3D Point Cloud Render](output/point_cloud_3d_perspective_render.png) | ![Canopy Height Model](output/point_cloud_chm_map.png) |
+| ![RGB Orthomosaic](docs/images/orthomosaic_rgb_preview.png) | ![CIR Orthomosaic](docs/images/orthomosaic_cir_false_color.png) |
+| **NDVI Vegetation Index Map** | **Bundle-Adjusted Flight Trajectory & 3D Tie Points** |
+| ![NDVI Map](docs/images/orthomosaic_ndvi_map.png) | ![Trajectory and Tie Points](docs/images/trajectory_and_tiepoints.png) |
+| **DEM-Normalized 3D Point Cloud (`735,614 pts`)** | **Digital Surface Model (DSM) Hillshade & Relief** |
+| ![3D Point Cloud Render](docs/images/point_cloud_3d_perspective_render.png) | ![DSM Hillshade](docs/images/point_cloud_dsm_hillshade.png) |
 
 ---
 
